@@ -37,3 +37,4 @@ export const zStudentGetParam = z.object({
 export const zStudentDeleteBody = z.object({
   studentId: zStudentId,
 });
+
